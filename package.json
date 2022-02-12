@@ -1,0 +1,13 @@
+{
+    "name": "Awardco automation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "cy:run": "cypress run --headless --browser chrome",
+        "cy:open": "cypress open"
+    },
+    "devDependencies": {
+        "cypress": "^9.4.1"
+    }
+}
