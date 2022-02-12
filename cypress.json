@@ -1,3 +1,9 @@
 {
-
+    "baseUrl": "https://www.award.co/",
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration",
+    "pluginsFile": "cypress/plugins/index.js",
+    "supportFile": "cypress/support/index.js",
+    "videosFolder": "reports/videos",
+    "screenshotsFolder": "reports/screenshots"
 }
