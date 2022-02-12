@@ -20,6 +20,3 @@ To get started you will need to open terminal after cloning and use "npm install
 **Purpose**
 I chose to test The Get A Demo page I chose this page because it is important that you can gain new customers and verify that they are able to fill out information correctly. 
 
-
-I also created additional pages for future testing that would be benifical to test. These pages should be seperated when testing with cypress to avoid any long running tests and dependencies. 
-
